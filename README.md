@@ -3,9 +3,9 @@
 **Mini Toolkit** is a Python console application that combines productivity, motivation, and entertainment into one simple program. The project was designed around the idea that productivity is not only about completing tasks, but also about maintaining the right mindset and taking healthy breaks.
 
 The application contains three mini tools:
-- To-Do List – Helps users organize their daily tasks.
-- Daily Motivation Generator – Displays a random motivational quote to encourage and inspire users before they begin working.
-- Guess the Number Game – A small game designed to provide users with a quick mental break and some fun during the day.
+- To-Do List - Helps users organize their daily tasks.
+- Daily Motivation Generator - Displays a random motivational quote to encourage and inspire users before they begin working.
+- Guess the Number Game - A small game designed to provide users with a quick mental break and some fun during the day.
   
 ***The goal of the project was to create a balanced program that supports productivity while also focusing on motivation and relaxation.***
 
@@ -51,11 +51,11 @@ Python installed
 ### Steps:
 - Download the project files
 - Make sure these files are in the same folder:
-  - main.py
+  - mini_toolkit.py
   - daily_quotes.py
   - Open a terminal or command prompt
 - Navigate to the project folder
-- Run the program:
+- Run the program
 
 ## Challenges I faced
 One challenge was figuring out how to create my first menu system, and having my functions within the same file, as putting the menu first resulted in the functions not being defined. 
