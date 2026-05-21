@@ -40,7 +40,7 @@ while True:
 
 # Quit Program
     if user_input == "q":
-        print("Leaving? See you later!")
+        print(f"Leaving? See you later {name}!")
         break
 
 
